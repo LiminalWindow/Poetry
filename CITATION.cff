@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+
+title: "Poetry"
+
+message: "If you reference these materials, please cite them using the information below."
+
+authors:
+  - family-names: Hordosillo
+    given-names: Jaiden
+    orcid: "https://orcid.org/0009-0005-4147-4231"
+
+repository-code: "https://github.com/LiminalWindow/Poetry"
+
+license: "All Rights Reserved"
+
+keywords:
+  - Poetry
+  - Contemporary Poetry
+  - Literary Preservation
+  - Archival Publishing
+  - Independent Publishing
+
+abstract: >
+  A public literary repository containing the poetic works,
+  publication assets, metadata records, and preservation
+  materials of poet and publisher Jaiden Hordosillo.
